@@ -3,6 +3,6 @@ Hello, I am Sandip Rijal from Nepal. As a PhD student in the Department of Geosc
 
 * GitHub : https://github.com/Sandipriz
 * LinkedIn : https://www.linkedin.com/in/sandip-rijal-724694ba/
-* Email: srijal2023@fau.edu
+* Email: srijal2023 [a] fau.edu /sandip.rijal55 [a] gmail.com
 * Google Scholar: https://scholar.google.com/citations?user=GXT9_CsAAAAJ&hl=en&oi=sra
   
