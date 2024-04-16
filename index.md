@@ -5,4 +5,6 @@ Hello, I am Sandip Rijal from Nepal. As a PhD student in the Department of Geosc
 * LinkedIn : https://www.linkedin.com/in/sandip-rijal-724694ba/
 * Email: srijal2023 [a] fau.edu /sandip.rijal55 [a] gmail.com
 * Google Scholar: https://scholar.google.com/citations?user=GXT9_CsAAAAJ&hl=en&oi=sra
+
+  ![Headshot image!](https://github.com/Sandipriz/Sandipriz.github.io/blob/main/images/Sea_headshot.jpg "Atlantic Ocean")
   
