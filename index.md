@@ -31,7 +31,7 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 4. **Rijal, S.**, Rauniyar, A., Thapa, S., Paudel, U., and Gautam, D., 2020. Ecosystem Services of Wetlands and Threats in Context of Nepal, International Journal on Forest, Soil and Erosion. DOI: 10.13140/RG.2.2.10767.41127
 5. Joshi, R., Singh, H., Chhetri, R., Paudel, S., and **Rijal, S.**, 2020. Carbon Sequestration Potential of Community Forest: A Comparative Analysis of Soil Organic Carbon Stock in Community Forest of Far-Western Nepal, Eurasian Journal of Soil Science. DOI: https://doi.org/10.18393/ejss.xxxxxxx
  
-#### Contact
+## Contact
 * [GitHub](https://github.com/Sandipriz)
 * [LinkedIn](https://www.linkedin.com/in/sandip-rijal-724694ba/)
 * [Google Scholar](https://scholar.google.com/citations?user=GXT9_CsAAAAJ&hl=en&oi=sra)
