@@ -32,7 +32,7 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 5. Joshi, R., Singh, H., Chhetri, R., Paudel, S., and **Rijal, S.**, 2020. Carbon Sequestration Potential of Community Forest: A Comparative Analysis of Soil Organic Carbon Stock in Community Forest of Far-Western Nepal, Eurasian Journal of Soil Science. DOI: https://doi.org/10.18393/ejss.xxxxxxx
  
 #### Contact
-* GitHub : [Sandip GitHub](https://github.com/Sandipriz)
-* LinkedIn : [Sandip LinkedIn](https://www.linkedin.com/in/sandip-rijal-724694ba/)
+* [GitHub](https://github.com/Sandipriz)
+* [LinkedIn](https://www.linkedin.com/in/sandip-rijal-724694ba/)
+* [Google Scholar](https://scholar.google.com/citations?user=GXT9_CsAAAAJ&hl=en&oi=sra)
 * Email: srijal2023 [a] fau.edu /sandip.rijal55 [a] gmail.com
-* Google Scholar: [Sandip Google Scholar](https://scholar.google.com/citations?user=GXT9_CsAAAAJ&hl=en&oi=sra)
