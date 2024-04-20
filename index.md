@@ -4,19 +4,24 @@ Hello, I am Sandip Rijal from Nepal. As a PhD student in the Department of Geosc
 
 ## Education
 - M.S.C in Environmental Science	  | Forest Research Institute, Dehradun, India (2019)	 			        		
-- B.S.C in Forestry                | Tribhuvan University, Institute of Forestry, Hetauda, Nepal (2017)
+- B.S.C in Forestry                | Tribhuvan University, Institute of Forestry, Hetauda, Nepal (2016)
 
 ## Skills: 
-Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imagine, WebGIS, Google Earth Engine, E-cognition, ENVI, Google Colab, Fusion for LIDAR data analysis, MaxEnt, and Survey123
+Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imagine, WebGIS, Google Earth Engine, E-cognition, ENVI, Google Colab, Fusion for LIDAR data analysis, MaxEnt, and Survey123    
 
 ## Work Experience
 
-### Graduate Assistantship
+### Graduate Teaching Assistant
 - Teaching Assistant for Application in GIS course during Spring 2024.
-- Research Assistant for Watershed Project II (Spring and Fall 2023) for flood water management in Florida.
+
+### Graduate Research Assistant
+- Lead Research Assistant for a $2M Watershed Project which developed a new flood water management strategy and automated mapping process to mitigate flood impact in Polk County, Florida.
+- Research Assistant for $250K Wetland Classification Project Using WorldView Imagery and Machine Learning for Blue Cypress Conservation Area.
 
 ### GIS Analyst
--	Executed geospatial data analysis, field data validation, and stem and regeneration mapping using GIS to implement the Shelterwood system in the community forest.
+-	Used GPS for forest, watershed boundary delineation and stem mapping.
+-	Filtered data for tree selection during harvesting for implementation of the Shelterwood system.
+-	Developed slope, aspect, and land-cover/land-use map. 
 -	Provided GPS and ArcGIS Desktop training to District Forest Office personnel in Palpa and Rammechhap, Nepal.
 
 ## Grants/Scholarship
