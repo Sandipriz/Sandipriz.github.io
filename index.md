@@ -42,4 +42,5 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 * [Google Scholar](https://scholar.google.com/citations?user=GXT9_CsAAAAJ&hl=en&oi=sra)
 * Email: srijal2023 [a] fau.edu /sandip.rijal55 [a] gmail.com
 
-<embed type="text/html" src="fau.html" width="600" height="600">
+## Map of FAU
+<embed type="text/html" src="/images/fau.html" width="600" height="600">
