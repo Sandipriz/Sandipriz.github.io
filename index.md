@@ -3,6 +3,7 @@
 Hello, I am Sandip Rijal from Nepal. As a PhD student in the Department of Geoscience at Florida Atlantic University, I joined the Remote Sensing and Hyperspectral Lab in Spring 2023. 
 
 ## Education
+----------------------------------------------------------------------------------------------
 - M.S.C in Environmental Science	  | Forest Research Institute, Dehradun, India (2019)	 			        		
 - B.S.C in Forestry                | Tribhuvan University, Institute of Forestry, Hetauda, Nepal (2016)
 
@@ -30,11 +31,11 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 -	Grant for Master’s Thesis entitled “Good Governance Assessment in Community Forest of Nepal” from WWF, Nepal: 700 USD
 
 ## Publications
-1. Thapa Chhetri M. and **Rijal S.**, 2023. Satellite-based Analysis of Lake Okeechobee’s Surface Water: Exploring Machine Learning Classification for Change Detection Environ. Sci. Proc. 2024, 29(1), 7; https://doi.org/10.3390/ECRS2023-15835
-2. Nir Kumar Puri, Amit Kumar Verma, Ramesh Chhetri, Harish Bahadur Chand, **Sandip Rijal**, 2022. Species Distribution Modelling of Two Sympatric Hornbills: The Great Hornbill and Rufous-Necked Hornbill in Bhutan, International Journal of Ecology, vol. 2022, Article ID 1475501, 9 pages, 2022. https://doi.org/10.1155/2022/1475501
-3. **Rijal, S.**, Subedi, M., Chhetri, R., Joshi, R., 2021. Good Governance Assessment in Community Forest of Nepal, Journal of Forest and Environmental Science. https://doi.org/10.7747/JFES.2021.37.2.1
-4. **Rijal, S.**, Rauniyar, A., Thapa, S., Paudel, U., and Gautam, D., 2020. Ecosystem Services of Wetlands and Threats in Context of Nepal, International Journal on Forest, Soil and Erosion. DOI: 10.13140/RG.2.2.10767.41127
-5. Joshi, R., Singh, H., Chhetri, R., Paudel, S., and **Rijal, S.**, 2020. Carbon Sequestration Potential of Community Forest: A Comparative Analysis of Soil Organic Carbon Stock in Community Forest of Far-Western Nepal, Eurasian Journal of Soil Science. DOI: https://doi.org/10.18393/ejss.xxxxxxx
+1. Thapa Chhetri, M., and **Rijal, S.,** 2023. Satellite-based Analysis of Lake Okeechobee’s Surface Water: Exploring Machine Learning Classification for Change Detection Environ. Sci. Proc. 2024, 29(1), 7; https://doi.org/10.3390/ECRS2023-15835
+2. Puri, NK., Verma, AK., Chhetri R., Chand, HB., **Rijal, S.,** 2022. Species Distribution Modelling of Two Sympatric Hornbills: The Great Hornbill and Rufous-Necked Hornbill in Bhutan, International Journal of Ecology, vol. 2022, Article ID 1475501, 9 pages, 2022. https://doi.org/10.1155/2022/1475501
+3. **Rijal, S.,** Subedi, M., Chhetri, R., Joshi, R., 2021. Good Governance Assessment in Community Forest of Nepal, Journal of Forest and Environmental Science. https://doi.org/10.7747/JFES.2021.37.2.1
+4. **Rijal, S.,** Rauniyar, A., Thapa, S., Paudel, U., and Gautam, D., 2020. Ecosystem Services of Wetlands and Threats in Context of Nepal, International Journal on Forest, Soil and Erosion. DOI: 10.13140/RG.2.2.10767.41127
+5. Joshi, R., Singh, H., Chhetri, R., Paudel, S., and **Rijal, S.,** 2020. Carbon Sequestration Potential of Community Forest: A Comparative Analysis of Soil Organic Carbon Stock in Community Forest of Far-Western Nepal, Eurasian Journal of Soil Science. DOI: https://doi.org/10.18393/ejss.xxxxxxx
  
 ## Contact
 * [GitHub](https://github.com/Sandipriz)
