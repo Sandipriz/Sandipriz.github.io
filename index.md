@@ -7,7 +7,7 @@ Hello, I am Sandip Rijal from Nepal. As a PhD student in the Department of Geosc
 - B.S.C in Forestry                | Tribhuvan University, Institute of Forestry, Hetauda, Nepal (2016)
 
 ## Skills: 
-Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imagine, WebGIS, Google Earth Engine, E-cognition, ENVI, Google Colab, Fusion for LIDAR data analysis, MaxEnt, and Survey123    
+Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imagine, WebGIS, Google Earth Engine, E-cognition, ENVI, Google Colab, Fusion for LIDAR data analysis, MaxEnt, and Survey123 
 
 ## Work Experience
 
