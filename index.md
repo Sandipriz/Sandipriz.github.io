@@ -1,4 +1,4 @@
-# Graduate_Student                                  
+# Graduate Student                                  
 
 Hello, I am Sandip Rijal from Nepal. As a PhD student in the Department of Geoscience at Florida Atlantic University, I joined the Remote Sensing and Hyperspectral Lab in Spring 2023. 
 
