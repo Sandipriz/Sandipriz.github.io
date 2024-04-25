@@ -3,7 +3,7 @@
 Hello, I am Sandip Rijal from Nepal. As a PhD student in the Department of Geoscience at Florida Atlantic University, I joined the Remote Sensing and Hyperspectral Lab in Spring 2023. 
 
 ## Education
--M.S.C in Environmental Science: Forest Research Institute, Dehradun, India (2019)
+-M.S.C in Environmental Science: Forest Research Institute, Dehradun, India (2019) <be>
 -B.S.C in Forestry: Tribhuvan University, Institute of Forestry, Hetauda, Nepal (2016)
 
 ## Skills: 
