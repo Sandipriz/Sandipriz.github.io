@@ -3,8 +3,6 @@
 Hello, I am Sandip Rijal from Nepal. As a PhD student in the Department of Geoscience at Florida Atlantic University, I joined the Remote Sensing and Hyperspectral Lab in Spring 2023. 
 
 ## Education
-| Degree     | Institution |
-| ----------- | ----------- |
 |M.S.C in Environmental Science	  | Forest Research Institute, Dehradun, India (2019)	 	|		        		
 |B.S.C in Forestry                | Tribhuvan University, Institute of Forestry, Hetauda, Nepal (2016)|
 
@@ -47,7 +45,7 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 ## Projects
 ### 1. Downscaling Sentinel-3 Temperature Data
 
-<img align="right" width="300" height="250" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="temperature_animation2" style="border: 2px solid black;">
+<img align="right" width="250" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="temperature_animation2" style="border: 2px solid black; margin-right: 10px;">
 
 <div style="text-align: justify;">
     <p>At the 2019 rendition of E3, an eccentric gamer in attendance interrupted Keanu Reeves' presentation of the role-playing game (RPG) Cyberpunk 2077, loudly claiming, “You're breathtaking,” which was directed at the actor-cum-presenter. The image macro used to build the "You're Breathtaking" meme generally features a still of Keanu Reeves pointing at someone in the audience in front of him - that someone is Peter Sark, though there are no images from Keanu's point of view that have since been used as part of the "You're Breathtaking" meme.</p>
@@ -55,7 +53,7 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 
 ### 2. Machine Learning Project
 
-<img align="right" width="300" height="250" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="temperature_animation2" style="border: 2px solid black; margin-right: 5px;">
+<img align="right" width="250" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="temperature_animation2" style="border: 2px solid black; margin-right: 10px;">
 
 <div style="text-align: justify;">
     <p>At the 2019 rendition of E3, an eccentric gamer in attendance interrupted Keanu Reeves' presentation of the role-playing game (RPG) Cyberpunk 2077, loudly claiming, “You're breathtaking,” which was directed at the actor-cum-presenter. The image macro used to build the "You're Breathtaking" meme generally features a still of Keanu Reeves pointing at someone in the audience in front of him - that someone is Peter Sark, though there are no images from Keanu's point of view that have since been used as part of the "You're Breathtaking" meme.</p>
