@@ -45,10 +45,13 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 * Email: srijal2023 [a] fau.edu /sandip.rijal55 [a] gmail.com
 
 ## Projects
-| 1. Downscaling to High-resolution Temperature Data  | Images |
-| ------------------------------------------------ | ------ |
-| This project used Sentinel-3 thermal data to produce <br> high-resolution temperature data  and combined them <br> to generate a time-series gif file. |  ![temperature_animation2](https://github.com/Sandipriz/Sandipriz.github.io/assets/74917376/b7f9c17a-fccc-48f2-996f-7b2b5097feb8) |
-| | |
+
+<img align="right" width="300" height="200" src="https://github.com/Sandipriz/Sandipriz.github.io/assets/74917376/b7f9c17a-fccc-48f2-996f-7b2b5097feb8" alt="temperature_animation2
+ ">
+
+At the 2019 rendition of E3, an eccentric gamer in attendance interrupted Keanu Reeves' presentation of the role-playing game (RPG) Cyberpunk 2077, loudly claiming, “"You're breathtaking,"” which was directed at the actor-cum-presenter. The image macro used to build the "You're Breathtaking" meme generally features a still of Keanu Reeves pointing at someone in the audience in front of him - that someone is Peter Sark, though there are no images from Keanu's point of view that have since been used as part of the "You're Breathtaking" meme.
+
+---
 
 ## Map of FAU 
 <embed type="text/html" src="/images/fau.html" width="600" height="600">
