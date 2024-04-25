@@ -43,12 +43,10 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 * Email: srijal2023 [a] fau.edu /sandip.rijal55 [a] gmail.com
 
 ## Projects
-Downscaling to High-resolution Temperature Data
-![Temperature Animation](temperature_animation2.gif)
-![](temperature_animation2.gif)
+| 1. Downscaling to High-resolution Temperature Data  | Images |
+| ------------------------------------------------ | ------ |
+| This project used Sentinel-3 thermal data to produce <br> high-resolution temperature data  and combined them <br> to generate a time-series gif file. |  ![temperature_animation2](https://github.com/Sandipriz/Sandipriz.github.io/assets/74917376/b7f9c17a-fccc-48f2-996f-7b2b5097feb8) |
+| | |
 
 ## Map of FAU 
 <embed type="text/html" src="/images/fau.html" width="600" height="600">
-----------------------------
-
-
