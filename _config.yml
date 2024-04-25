@@ -3,5 +3,6 @@ logo: /images/circle_headshot.png
 
 #description: text below image
 show_downloads: true
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-minimal
+
 
