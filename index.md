@@ -44,6 +44,7 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 
 ## Projects
 Downscaling to High-resolution Temperature Data
+![Temperature Animation](temperature_animation2.gif)
 ![](temperature_animation2.gif)
 
 ## Map of FAU 
