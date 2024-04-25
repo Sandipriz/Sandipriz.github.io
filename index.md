@@ -8,6 +8,11 @@ Hello, I am Sandip Rijal from Nepal. As a PhD student in the Department of Geosc
 |M.S.C in Environmental Science	  | Forest Research Institute, Dehradun, India (2019)	 	|		        		
 |B.S.C in Forestry                | Tribhuvan University, Institute of Forestry, Hetauda, Nepal (2016)|
 
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
 ## Skills: 
 Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imagine, WebGIS, Google Earth Engine, E-cognition, ENVI, Google Colab, Fusion for LIDAR data analysis, MaxEnt, and Survey123 
 
