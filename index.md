@@ -45,28 +45,6 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 * Email: srijal2023 [a] fau.edu /sandip.rijal55 [a] gmail.com
 
 ## Projects
-<div style="overflow: auto; margin-bottom: 10px;">
-    <img align="right" width="250" height="200" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="temperature_animation2" style="border: 2px solid black;"> 
-    <div style="margin-right: 250px;"> <!-- Adjust margin-right to make space for the image -->
-        <h3 style="margin-top: 0;"> 1. Downscaling Sentinel-3 Temperature Data</h3>
-        <p style="text-align: justify;">
-            At the 2019 rendition of E3, an eccentric gamer in attendance interrupted Keanu Reeves' presentation of the role-playing game (RPG) Cyberpunk 2077, loudly claiming, “You're breathtaking," which was directed at the actor-cum-presenter. The image macro used to build the "You're Breathtaking" meme generally features a still of Keanu Reeves pointing at someone in the audience in front of him - that someone is Peter Sark, though there are no images from Keanu's point of view that have since been used as part of the "You're Breathtaking" meme.
-        </p>
-    </div>
-</div>
-
-<div style="overflow: auto; margin-bottom: 10 px">
-    <img align="right" width="250" height="200" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="temperature_animation2" style="border: 2px solid black;"> 
-    <div style="margin-right: 250px;"> <!-- Adjust margin-right to make space for the image -->
-        <h3 style="margin-top: 0;"> 2. Machine Learning project</h3>
-        <p style="text-align: justify;">
-           In this machine learning project, we aimed to develop a predictive model for house prices based on various property features. The dataset used included information on square footage, number of bedrooms and bathrooms, location details, and sale prices of residential properties.
-
-To start, we performed thorough data preprocessing to handle missing values and outliers. Feature engineering techniques were applied to extract additional meaningful information, such as the age of the property from the year built.
-        </p>
-    </div>
-</div>
-
 ### 1. Downscaling Sentinel-3 Temperature Data
 
 <img align="right" width="300" height="250" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="temperature_animation2" style="border: 2px solid black;">
@@ -77,9 +55,11 @@ To start, we performed thorough data preprocessing to handle missing values and 
 
 ### 2. Machine Learning Project
 
-<img align="right" width="300" height="250" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="temperature_animation2" style="border: 2px solid black;">
+<img align="right" width="300" height="250" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="temperature_animation2" style="border: 2px solid black; margin-right: 5px;">
 
-At the 2019 rendition of E3, an eccentric gamer in attendance interrupted Keanu Reeves' presentation of the role-playing game (RPG) Cyberpunk 2077, loudly claiming, “You're breathtaking,” which was directed at the actor-cum-presenter. The image macro used to build the "You're Breathtaking" meme generally features a still of Keanu Reeves pointing at someone in the audience in front of him - that someone is Peter Sark, though there are no images from Keanu's point of view that have since been used as part of the "You're Breathtaking" meme.
+<div style="text-align: justify;">
+    <p>At the 2019 rendition of E3, an eccentric gamer in attendance interrupted Keanu Reeves' presentation of the role-playing game (RPG) Cyberpunk 2077, loudly claiming, “You're breathtaking,” which was directed at the actor-cum-presenter. The image macro used to build the "You're Breathtaking" meme generally features a still of Keanu Reeves pointing at someone in the audience in front of him - that someone is Peter Sark, though there are no images from Keanu's point of view that have since been used as part of the "You're Breathtaking" meme.</p>
+</div>
 
 
 ## Map of FAU 
