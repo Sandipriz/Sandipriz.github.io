@@ -8,11 +8,6 @@ Hello, I am Sandip Rijal from Nepal. As a PhD student in the Department of Geosc
 |M.S.C in Environmental Science	  | Forest Research Institute, Dehradun, India (2019)	 	|		        		
 |B.S.C in Forestry                | Tribhuvan University, Institute of Forestry, Hetauda, Nepal (2016)|
 
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
 ## Skills: 
 Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imagine, WebGIS, Google Earth Engine, E-cognition, ENVI, Google Colab, Fusion for LIDAR data analysis, MaxEnt, and Survey123 
 
@@ -50,9 +45,9 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 * Email: srijal2023 [a] fau.edu /sandip.rijal55 [a] gmail.com
 
 ## Projects
-<div style="overflow: auto; margin-bottom: 40px;">
+<div style="overflow: auto; margin-bottom: 10px;">
     <img align="right" width="300" height="250" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="temperature_animation2" style="border: 2px solid black;"> 
-    <div style="margin-right: 250px;"> <!-- Adjust margin-right to make space for the image -->
+    <div style="margin-right: 400px;"> <!-- Adjust margin-right to make space for the image -->
         <h3 style="margin-top: 0;"> 1. Downscaling Sentinel-3 Temperature Data</h3>
         <p style="text-align: justify;">
             At the 2019 rendition of E3, an eccentric gamer in attendance interrupted Keanu Reeves' presentation of the role-playing game (RPG) Cyberpunk 2077, loudly claiming, “You're breathtaking," which was directed at the actor-cum-presenter. The image macro used to build the "You're Breathtaking" meme generally features a still of Keanu Reeves pointing at someone in the audience in front of him - that someone is Peter Sark, though there are no images from Keanu's point of view that have since been used as part of the "You're Breathtaking" meme.
@@ -60,9 +55,9 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
     </div>
 </div>
 
-<div style="overflow: auto; margin-bottom: 40 px">
-    <img align="right" width="300" height="250" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="temperature_animation2"> 
-    <div style="margin-right: 250px;"> <!-- Adjust margin-right to make space for the image -->
+<div style="overflow: auto; margin-bottom: 10 px">
+    <img align="right" width="300" height="250" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="temperature_animation2" style="border: 2px solid black;"> 
+    <div style="margin-right: 400px;"> <!-- Adjust margin-right to make space for the image -->
         <h3 style="margin-top: 0;"> 2. Machine Learning project</h3>
         <p style="text-align: justify;">
            In this machine learning project, we aimed to develop a predictive model for house prices based on various property features. The dataset used included information on square footage, number of bedrooms and bathrooms, location details, and sale prices of residential properties.
