@@ -51,15 +51,15 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 <img align="right" width="250" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="temperature_animation2" style="border: 2px solid black; margin-right: 10px;">
 
 <div style="text-align: justify;">
-    <p>At the 2019 rendition of E3, an eccentric gamer in attendance interrupted Keanu Reeves' presentation of the role-playing game (RPG) Cyberpunk 2077, loudly claiming, “You're breathtaking,” which was directed at the actor-cum-presenter. The image macro used to build the "You're Breathtaking" meme generally features a still of Keanu Reeves pointing at someone in the audience in front of him - that someone is Peter Sark, though there are no images from Keanu's point of view that have since been used as part of the "You're Breathtaking" meme.</p>
+    <p>In this project, I used sentinel-3 thermal data and Sentinel-2 multispectral imagery to generate high-resolution temperature data for the region of interest. In addition, the time-series data for the same location are combined to produce a NetCDF file which is easier to handle and convenient to store.</p>
 </div>
 
-### 2. Machine Learning Project
+### 2. View Hindu-Kush Himalaya
 
-<img align="right" width="250" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="temperature_animation2" style="border: 2px solid black; margin-right: 10px;">
+<img align="right" width="280" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="HKH_imgs" style="border: 2px solid black; margin-right: 10px;">
 
 <div style="text-align: justify;">
-    <p>At the 2019 rendition of E3, an eccentric gamer in attendance interrupted Keanu Reeves' presentation of the role-playing game (RPG) Cyberpunk 2077, loudly claiming, “You're breathtaking,” which was directed at the actor-cum-presenter. The image macro used to build the "You're Breathtaking" meme generally features a still of Keanu Reeves pointing at someone in the audience in front of him - that someone is Peter Sark, though there are no images from Keanu's point of view that have since been used as part of the "You're Breathtaking" meme.</p>
+    <p>In this project, I used Hindu-Kush Himalayas region in the Google Earth Engine (GEE) to generate timelapse gif imagery for visual comparison of the region across the time. </p>
 </div>
 
 
