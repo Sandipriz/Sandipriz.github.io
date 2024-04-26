@@ -54,7 +54,7 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 
 ### 2. View Hindu-Kush Himalaya
 
-<img align="right" width="250" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/blob/main/images/HKH_imgs.gif" alt="HKH_imgs">
+<img align="right" width="250" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/HKH_imgs.gif" alt="HKH_imgs">
 
 <div style="text-align: justify;">
     <p>In this project, I used the Hindu-Kush Himalayas region in the Google Earth Engine (GEE) to generate timelapse gif imagery for visual comparison of the region across time. </p>
