@@ -3,8 +3,8 @@
 Hello, I am Sandip Rijal from Nepal. As a PhD student in the Department of Geoscience at Florida Atlantic University, I joined the Remote Sensing and Hyperspectral Lab in Spring 2023. 
 
 ## Education
-| M.S.C in Environmental Science | Forest Research Institute, Dehradun, India, 2019|
-| B.S.C in Forestry              | Tribhuvan University, Institute of Forestry, Hetauda, Nepal, 2016 |
+- M.S.C in Environmental Science | Forest Research Institute, Dehradun, India, 2019
+- B.S.C in Forestry              | Tribhuvan University, Institute of Forestry, Hetauda, Nepal, 2016 
 
 
 ## Skills: 
@@ -54,10 +54,10 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 
 ### 2. View Hindu-Kush Himalaya
 
-<img align="right" width="280" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/blob/main/images/HKH_imgs.gif" alt="HKH_imgs">
+<img align="right" width="250" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/blob/main/images/HKH_imgs.gif" alt="HKH_imgs">
 
 <div style="text-align: justify;">
-    <p>In this project, I used the Hindu-Kush Himalayas region in the Google Earth Engine (GEE) to generate timelapse gif imagery for visual comparison of the region across the time. </p>
+    <p>In this project, I used the Hindu-Kush Himalayas region in the Google Earth Engine (GEE) to generate timelapse gif imagery for visual comparison of the region across time. </p>
 </div>
 
 
