@@ -56,7 +56,7 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 
 <img align="right" width="250" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/HKH_imgs.gif" alt="HKH_imgs">
 
-<div style="text-align: justify; margin-bottom: 30px;">
+<div style="text-align: justify; margin-bottom: 50px;">
     <p>In this project, I used the Hindu-Kush Himalayas region in the Google Earth Engine (GEE) to generate timelapse gif imagery for visual comparison of the region across time. I selected the images from the years 2019 to 2024 to generate gif image which shows the changing snow and vegetation cover on a seasonal basis. </p>
 </div>
 
