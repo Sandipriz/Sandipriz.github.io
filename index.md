@@ -52,12 +52,12 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
     <p>In this project, I used sentinel-3 thermal data and Sentinel-2 multispectral imagery to generate high-resolution temperature data for the region of interest. In addition, the time-series data for the same location are combined to produce a NetCDF file which is easier to handle and convenient to store.</p>
 </div>
 
-### 2. View Hindu-Kush Himalaya
+### 2. Dynamic Hindu-Kush Himalaya
 
 <img align="right" width="250" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/HKH_imgs.gif" alt="HKH_imgs">
 
 <div style="text-align: justify; margin-bottom: 20px;">
-    <p>In this project, I used the Hindu-Kush Himalayas region in the Google Earth Engine (GEE) to generate timelapse gif imagery for visual comparison of the region across time. </p>
+    <p>In this project, I used the Hindu-Kush Himalayas region in the Google Earth Engine (GEE) to generate timelapse gif imagery for visual comparison of the region across time. I selected the images from years 2019 to 2024 to generate gif image which shows the changing snow and vegetation cover on seasonal basis. </p>
 </div>
 
 
