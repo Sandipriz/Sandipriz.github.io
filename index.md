@@ -37,12 +37,6 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 4. **Rijal, S.,** Rauniyar, A., Thapa, S., Paudel, U., and Gautam, D., 2020. Ecosystem Services of Wetlands and Threats in Context of Nepal, International Journal on Forest, Soil and Erosion. DOI: 10.13140/RG.2.2.10767.41127
 5. Joshi, R., Singh, H., Chhetri, R., Paudel, S., and **Rijal, S.,** 2020. Carbon Sequestration Potential of Community Forest: A Comparative Analysis of Soil Organic Carbon Stock in Community Forest of Far-Western Nepal, Eurasian Journal of Soil Science. DOI: https://doi.org/10.18393/ejss.xxxxxxx
  
-## Contact
-* [GitHub](https://github.com/Sandipriz)
-* [LinkedIn](https://www.linkedin.com/in/sandip-rijal-724694ba/)
-* [Google Scholar](https://scholar.google.com/citations?user=GXT9_CsAAAAJ&hl=en&oi=sra)
-* Email: srijal2023 [a] fau.edu /sandip.rijal55 [a] gmail.com
-
 ## Projects
 ### 1. Downscaling Sentinel-3 Temperature Data
 
@@ -57,9 +51,14 @@ Machine Learning, Deep Learning, Timeseries Analysis, ArcGIS Desktop, ERDAS Imag
 <img align="right" width="250" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/HKH_imgs.gif" alt="HKH_imgs">
 
 <div style="text-align: justify; margin-bottom: 50px;">
-    <p>In this project, I used the Hindu-Kush Himalayas region in the Google Earth Engine (GEE) to generate timelapse gif imagery for visual comparison of the region across time. I selected the images from the years 2019 to 2024 to generate gif image which shows the changing snow and vegetation cover on a seasonal basis. </p>
+    <p>In this project, I used the Hindu-Kush Himalayas region in the Google Earth Engine (GEE) to generate timelapse imagery for visual comparison of the region across time. I selected the images from the years 2019 to 2024 to generate a timelapse image which shows the changing snow and vegetation cover on a seasonal basis. </p>
 </div>
 
+## Contact
+* [GitHub](https://github.com/Sandipriz)
+* [LinkedIn](https://www.linkedin.com/in/sandip-rijal-724694ba/)
+* [Google Scholar](https://scholar.google.com/citations?user=GXT9_CsAAAAJ&hl=en&oi=sra)
+* Email: srijal2023 [a] fau.edu /sandip.rijal55 [a] gmail.com
 
 ## Map of FAU 
 <embed type="text/html" src="/images/fau.html" width="600" height="600">
