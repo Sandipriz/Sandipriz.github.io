@@ -14,20 +14,33 @@
 
 ## <a id="about"></a> 🏠 About Me
 
-Hello, I am **Sandip Rijal** from Nepal, a PhD student in the Department of Geoscience at **Florida Atlantic University** (joined Spring 2023). I specialize in **Remote Sensing and Hyperspectral Analysis** with a strong focus on Machine Learning applications in environmental and water resource management.
+Hello, I am **Sandip Rijal** from Nepal, a PhD student in the Department of Geoscience at **Florida Atlantic University** (joined Spring 2023). I specialise in **Remote Sensing and Spatial Data Science** with a strong focus on Machine Learning applications in environmental and water resource management.
 
 ### Education
 * **Ph.D. Geoscience** | Florida Atlantic University, USA (Current)
-* **M.S.C in Environmental Science** | Forest Research Institute, Dehradun, India, 2019
+---
+* **M.S.C in Environment Management** | Forest Research Institute, Dehradun, India, 2019
+---
 * **B.S.C in Forestry** | Tribhuvan University, Institute of Forestry, Hetauda, Nepal, 2016
+---
+### Technical Expertise
 
-### Technical Skills
-**Machine Learning/Analysis:** Machine Learning, Deep Learning, Timeseries Analysis, MaxEnt, Fusion for LIDAR data analysis
-**GIS/Remote Sensing Software:** ArcGIS Desktop, ERDAS Imagine, E-cognition, ENVI
-**Cloud/Web Platforms:** Google Earth Engine (GEE), WebGIS, Google Colab, Survey123
+**Remote Sensing & GIS**: ArcGIS, ERDAS Imagine, ENVI, E-Cognition, Google Earth Engine, WebGIS
+
+---
+
+**Programming & Analysis**: Time Series, SAR Data Analysis, LIDAR (Fusion), PostgreSQL/PostGIS
+
+---
+
+**Modeling & Machine Learning**: Deep Learning (PyTorch, TorchGeo, LSTM, GRU), Machine learning (RF, SVM, ANN, kNN, Gradient Boosting)
+
+---
+
+**Field Data Collection**: Field Map, Survey123
 
 ### Work Experience Highlights
-* **Graduate Research Assistant:** Lead RA for a **$2M Watershed Project** (Flood Water Management, Automated Mapping in Polk County, FL) and a **$250K Wetland Classification Project** (WorldView Imagery and Machine Learning).
+* **Graduate Research Assistant:** Lead RA for a **Watershed Project** (Flood Water Management, Automated Mapping in Polk County, FL) and a **Wetland Classification Project** (WorldView Imagery and Machine Learning).
 * **Graduate Teaching Assistant:** Application in GIS course (Spring 2024).
 
 ### Grants & Scholarships
@@ -35,21 +48,20 @@ Hello, I am **Sandip Rijal** from Nepal, a PhD student in the Department of Geos
 - **2017:** SAARC Scholarship for Master’s course  
 
 ---
-
 ## <a id="projects"></a> 💻 Featured Projects
 
 ### 1. Downscaling Sentinel-3 Temperature Data
 
 <img align="right" width="250" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="Temperature Downscaling Animation" style="border: 1px solid black; margin-left: 10px;">
 
-Used **Sentinel-3 thermal data** and **Sentinel-2 multispectral imagery** to generate high-resolution temperature data. The time-series data for the same location was combined into a **NetCDF file** for easier handling and storage.
+Used Sentinel-3 thermal data and Sentinel-2 multispectral imagery to generate high-resolution temperature data. The time-series data for the same location were combined into a NetCDF file for easier handling and storage.
 <br clear="right"/>
 
 ### 2. Dynamic Hindu-Kush Himalaya
 
 <img align="right" width="250" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/HKH_imgs.gif" alt="Hindu-Kush Himalaya Timelapse" style="border: 1px solid black; margin-left: 10px;">
 
-Leveraged **Google Earth Engine (GEE)** to generate a timelapse animation for the Hindu-Kush Himalayas region. This project used imagery from 2019 to 2024 to visually demonstrate the changing **snow and vegetation cover** on a seasonal basis.
+**Google Earth Engine (GEE)** to generate a timelapse animation for the Hindu-Kush Himalayas region. This project used imagery from 2019 to 2024 to visually demonstrate the changing snow and vegetation cover on a seasonal basis.
 <br clear="right"/>
 
 ---
@@ -59,11 +71,10 @@ Leveraged **Google Earth Engine (GEE)** to generate a timelapse animation for th
 1.  Thapa Chhetri, M., and **Rijal, S.,** 2023. Satellite-based Analysis of Lake Okeechobee’s Surface Water: Exploring Machine Learning Classification for Change Detection Environ. Sci. Proc. 2024, 29(1), 7; https://doi.org/10.3390/ECRS2023-15835
 2.  Puri, NK., Verma, AK., Chhetri R., Chand, HB., **Rijal, S.,** 2022. Species Distribution Modelling of Two Sympatric Hornbills: The Great Hornbill and Rufous-Necked Hornbill in Bhutan, International Journal of Ecology, vol. 2022, Article ID 1475501, 9 pages, 2022. https://doi.org/10.1155/2022/1475501
 3.  **Rijal, S.,** Subedi, M., Chhetri, R., Joshi, R., 2021. Good Governance Assessment in Community Forest of Nepal, Journal of Forest and Environmental Science. https://doi.org/10.7747/JFES.2021.37.2.1
-4.  **Rijal, S.,** Rauniyar, A., Thapa, S., Paudel, U., and Gautam, D., 2020. Ecosystem Services of Wetlands and Threats in Context of Nepal, International Journal on Forest, Soil and Erosion. DOI: 10.13140/RG.2.2.10767.41127
+4.  **Rijal, S.,** Rauniyar, A., Thapa, S., Paudel, U., and Gautam, D., 2020. Ecosystem Services of Wetlands and Threats in context of Nepal, International Journal on Forest, Soil and Erosion. DOI: 10.13140/RG.2.2.10767.41127
 5.  Joshi, R., Singh, H., Chhetri, R., Paudel, S., and **Rijal, S.,** 2020. Carbon Sequestration Potential of Community Forest: A Comparative Analysis of Soil Organic Carbon Stock in Community Forest of Far-Western Nepal, Eurasian Journal of Soil Science. DOI: https://doi.org/10.18393/ejss.xxxxxxx
 
 ---
-
 ## <a id="contact"></a> 📧 Connect and Learn More
 
 <p align="center">
