@@ -18,10 +18,13 @@ Hello, I am **Sandip Rijal** from Nepal, a PhD student in the Department of Geos
 
 ### Education
 * **Ph.D. Geoscience** | Florida Atlantic University, USA (Current)
+  
 ---
 * **M.S.C in Environment Management** | Forest Research Institute, Dehradun, India, 2019
+  
 ---
 * **B.S.C in Forestry** | Tribhuvan University, Institute of Forestry, Hetauda, Nepal, 2016
+
 ---
 ### Technical Expertise
 
