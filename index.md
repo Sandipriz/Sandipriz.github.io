@@ -40,14 +40,14 @@ Hello, I am **Sandip Rijal** from Nepal, a PhD student in the Department of Geos
 
 ### 1. Downscaling Sentinel-3 Temperature Data
 
-<img align="right" width="250" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="Temperature Downscaling Animation" style="border: 2px solid black; margin-left: 10px;">
+<img align="right" width="250" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/temperature_animation2.gif" alt="Temperature Downscaling Animation" style="border: 1px solid black; margin-left: 10px;">
 
 Used **Sentinel-3 thermal data** and **Sentinel-2 multispectral imagery** to generate high-resolution temperature data. The time-series data for the same location was combined into a **NetCDF file** for easier handling and storage.
 <br clear="right"/>
 
 ### 2. Dynamic Hindu-Kush Himalaya
 
-<img align="right" width="250" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/HKH_imgs.gif" alt="Hindu-Kush Himalaya Timelapse">
+<img align="right" width="250" height="230" src="https://github.com/Sandipriz/Sandipriz.github.io/raw/main/images/HKH_imgs.gif" alt="Hindu-Kush Himalaya Timelapse" style="border: 1px solid black; margin-left: 10px;">
 
 Leveraged **Google Earth Engine (GEE)** to generate a timelapse animation for the Hindu-Kush Himalayas region. This project used imagery from 2019 to 2024 to visually demonstrate the changing **snow and vegetation cover** on a seasonal basis.
 <br clear="right"/>
